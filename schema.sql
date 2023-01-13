@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS Visits;
+
+CREATE TABLE Visits (VisitTime INT);

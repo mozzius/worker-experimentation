@@ -1,0 +1,9 @@
+main = "./src/index.ts"
+name = "worker-typescript-template"
+compatibility_date = "2022-07-26"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "experiment"
+database_id = "2035f0ab-3a7e-4b11-b76c-b7f787fce50a"
+preview_database_id = "46a84e03-e468-4a27-a38c-d611ea0da8c0"
