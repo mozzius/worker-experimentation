@@ -1,5 +1,5 @@
 main = "./src/index.ts"
-name = "worker-typescript-template"
+name = "experimentation"
 compatibility_date = "2022-07-26"
 
 [[d1_databases]]
